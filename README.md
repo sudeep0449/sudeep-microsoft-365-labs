@@ -33,9 +33,10 @@ A hands-on lab covering the core administrative tasks performed in the Microsoft
 
 Successfully demonstrated practical administration of the Microsoft 365 Admin Center, including user lifecycle management, group management, multi-factor authentication, password administration, and role-based access control — core skills for IT Help Desk and Junior System Administrator roles working with Microsoft 365 environments.
 
-## Full Documentation
+## Repository Contents
 
-[`microsoft admin 365 lab.pdf`](<./microsoft admin 365 lab.pdf>) contains the full step-by-step write-up with all implementation screenshots.
+- [`microsoft admin 365 lab.pdf`](<./microsoft admin 365 lab.pdf>) — full step-by-step write-up
+- [`screenshots/`](<./screenshots>) — implementation evidence (user creation, group management, MFA, and role assignment)
 
 ## Author
 
